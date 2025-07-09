@@ -49,7 +49,7 @@ dependencies {
 
 //    implementation platform('com.google.cloud:libraries-bom:latest_version_here') // Find the latest version from Maven Central or Google Cloud documentation
 //    implementation 'com.google.genai:google-genai'
-    implementation("com.google.genai:google-genai:1.4.1")
+    implementation("com.google.genai:google-genai:1.7.0")
 }
 
 // Configure IntelliJ Platform Gradle Plugin - read more: https://plugins.jetbrains.com/docs/intellij/tools-intellij-platform-gradle-plugin-extension.html
