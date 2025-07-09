@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>org.jetbrains.plugins.template</id>
-    <name>IntelliJ Platform Plugin Template</name>
-    <vendor>JetBrains</vendor>
+    <id>com.github.abhignakumar.copilotforjetbrains</id>
+    <name>copilot-for-jetbrains</name>
+    <vendor>abhignakumar</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
